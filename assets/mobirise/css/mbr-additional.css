@@ -1673,34 +1673,13 @@ body {
 .cid-qXZ5GkN36I .dropdown-item:hover {
   color: #f7ed4a !important;
 }
-.cid-qXZ90vOECa {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/mbr-1920x1280.jpg");
-}
-.cid-qXZ90vOECa .mbr-figure {
-  margin: 0 auto;
-  width: 100%;
-  display: flex;
-  justify-content: center;
-}
-.cid-qXZ90vOECa .mbr-figure img {
-  height: 100%;
-  margin: 0 auto;
-}
-@media (max-width: 991px) {
-  .cid-qXZ90vOECa .mbr-figure img {
-    width: 100% !important;
-  }
-}
-.cid-qXZ90vOECa .mbr-text,
-.cid-qXZ90vOECa .mbr-section-btn {
-  color: #232323;
+.cid-qY9Ddrz33w {
+  background-image: url("../../../assets/images/learning-english-810x430.jpg");
 }
 .cid-qXZcdicWGx {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #e4d295;
+  background-color: #b2ccd2;
 }
 .cid-qXZcdicWGx .card-box {
   padding: 0 2rem;
@@ -1740,7 +1719,7 @@ body {
 .cid-qY3EdXBHqn {
   padding-top: 90px;
   padding-bottom: 90px;
-  background: linear-gradient(45deg, #177396, #ca2955);
+  background: linear-gradient(45deg, #efefef, #ca2955);
 }
 .cid-qY3EdXBHqn .list-group-item {
   padding: .75rem 3.25rem;
